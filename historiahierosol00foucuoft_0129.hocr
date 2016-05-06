@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiahierosol00foucuoft/historiahierosol00foucuoft_0129.png"; bbox 0 0 2216 3438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 85 1495 1679 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 85 1495 1679 1814">
+     <span class='ocr_line' id='line_1_1' title="bbox 85 1495 1641 1669; baseline -0.002 -36"><span class='ocrx_word' id='word_1_1' title='bbox 85 1515 91 1518; x_wconf 40' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 167 1522 172 1525; x_wconf 71' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 277 1616 283 1620; x_wconf 91' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 374 1522 379 1526; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 456 1495 901 1632; x_wconf 60' lang='lat' dir='ltr'>monam</span> <span class='ocrx_word' id='word_1_6' title='bbox 952 1504 1553 1631; x_wconf 74' lang='lat' dir='ltr'>GARNOTENsls</span> <span class='ocrx_word' id='word_1_7' title='bbox 1638 1667 1641 1669; x_wconf 3' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 318 1686 1679 1814; baseline -0.003 -39"><span class='ocrx_word' id='word_1_8' title='bbox 318 1686 748 1775; x_wconf 73' lang='lat' dir='ltr'><strong>HISTORIA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 801 1697 1679 1814; x_wconf 74' lang='lat' dir='ltr'><strong>HIEROSOLYMITANA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 152 3438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 152 3438">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 152 3438; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 152 3438; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
